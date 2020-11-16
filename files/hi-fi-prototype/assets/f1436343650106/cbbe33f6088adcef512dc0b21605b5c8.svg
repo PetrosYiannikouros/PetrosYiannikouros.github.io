@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Gardenwater</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Activities" sketch:type="MSLayerGroup" transform="translate(-254.000000, -478.000000)" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Gardenwater" transform="translate(256.000000, 493.062446)" sketch:type="MSShapeGroup">
+                <path d="M20.8,1 L43.2,1 L44,32 L20,32 L20.8,1 Z" id="Rectangle-996"></path>
+                <path d="M18.8261882,1 L45.2771183,1" id="Line"></path>
+                <path d="M18,32 L46.0904005,32" id="Line"></path>
+                <path d="M20.010132,25.8838931 L8.15655243,17.9175679 L9.96067693,14.7607652 L20.3301026,17.6659648" id="Path-1977"></path>
+                <path d="M10.2630484,14.3853243 L7.93281863,18.1289066 L0.298452593,18.6762524 L7.55010309,7.19883187 L10.2630484,14.3853243 Z" id="Path-1978"></path>
+                <path d="M43.8770874,7.09303636 C43.8770874,7.09303636 48.801515,3.13463442 52.1319201,3.8654989 C55.4623251,4.59636337 57.2590193,6.33993184 55.1295653,11.3171724 C53.0001113,16.2944129 43.9065414,26.8213926 43.9065414,26.8213926" id="Path-1979"></path>
+            </g>
+        </g>
+    </g>
+</svg>
